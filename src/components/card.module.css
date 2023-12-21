@@ -1,0 +1,18 @@
+.card {
+  background-color: rgb(0, 0, 0);
+  border-radius: 20px;
+  box-shadow: 8px 8px rgb(77, 77, 77);
+  border: solid 2px rgba(0, 0, 0, 0.507);
+  margin: 15px auto;
+  padding: 30px;
+  width: 80%;
+  height: 400px;
+  color: aliceblue;
+  display: flex;
+}
+
+.image{
+  width: 300px;
+  height: fit-content;
+  vertical-align:middle;
+}
